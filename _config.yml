@@ -1,0 +1,81 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Iron Codex
+logo-fa-class: fa-book-open
+contact: https://formspree.io/xqkybngo
+tagline: A portable WARMACHINE® and HORDES® model database.
+description: >- # this means to ignore newlines until "baseurl:"
+  A portable WARMACHINE® and HORDES® model database.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ironcodex.net" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  moisesguimaraes
+twitter_username: moisesguimaraes
+instagram_username: whereismoisa
+
+factions:
+  infernals: Infernals
+  crucible-guard: Crucible Guard
+  cygnar: Cygnar
+  protectorate: Protectorate of Menoth
+  khador: Khador
+  cryx: Cryx
+  retribution: Retribution of Scyrah
+  mercenaries: Mercenaries
+  convergence: Convergence of Cyriss
+  trollbloods: Trollbloods
+  circle: Circle of Orboros
+  skorne: Skorne
+  legion: Legion of Evenblight
+  minions: Minions
+  grymkin: Grymkin
+
+jobs:
+  warcaster: Warcasters
+  warlock: Warlocks
+  infernal_masters: Infernal Masters
+  warjack: Warjacks
+  warbeasts: Warbeasts
+  horrors: Horrors
+  unit: Units
+  solo: Solos
+  engine_structure: Battle Engines & Structures
+  arcana: Arcanas
+
+# Plugins
+plugins:
+ - jekyll-paginate
+
+# Pagination
+paginate: 4
+paginate_path: "/search/page:num/"
+
+# Build settings
+markdown: kramdown
+
+sass:
+  sass_dir: assets/sass
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
