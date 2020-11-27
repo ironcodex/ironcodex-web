@@ -16,7 +16,7 @@
 title: Iron Codex
 logo-fa-class: fa-book-open
 contact: https://formspree.io/xqkybngo
-tagline: A portable WARMACHINE® and HORDES® model database.
+tagline: A portable WARMACHINE® and HORDES® model database
 description: >- # this means to ignore newlines until "baseurl:"
   A portable WARMACHINE® and HORDES® model database.
 baseurl: "" # the subpath of your site, e.g. /blog
