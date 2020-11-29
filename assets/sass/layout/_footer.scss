@@ -24,6 +24,10 @@
 				width: calc(50% - #{_size(section-spacing, large) * 0.5});
 			}
 
+			iframe {
+				min-height: 450px;
+			}
+
 			.contact {
 				width: calc(50% - #{_size(section-spacing, large) * 0.5});
 			}

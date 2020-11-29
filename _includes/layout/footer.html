@@ -22,7 +22,7 @@
 	<section id="footer">
 		<div class="inner">
 			<h2 class="major">Get in touch</h2>
-			<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+			<p>You can reach us using the contact form bellow or you can join us on our <a href="{{ site.discord_server }}">Discord Server</a>. But the most important thing is that we definitely want to hear from you!</p>
 			<form method="post" action="{{ site.contact }}">
 				<div class="field">
 					<label for="name">Name</label>
@@ -37,10 +37,16 @@
 					<textarea name="message" id="message" rows="4"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" /></li>
+					<li><input type="submit" value="Send Message" class="special" /></li>
 				</ul>
 			</form>
-			<ul class="contact">
+			<iframe
+				class="contact"
+				src="https://discord.com/widget?id=750824205557432393&theme=dark"
+				allowtransparency="true" frameborder="0" sandbox="allow-popups
+				allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+			</iframe>
+			<!--<ul class="contact">
 				<li class="fa-home">
 					Untitled Inc<br />
 					1234 Somewhere Road Suite #2894<br />
@@ -51,7 +57,7 @@
 				<li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
 				<li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
 				<li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
-			</ul>
+			</ul>-->
 			<ul class="copyright">
 				<li>&copy; Untitled Inc. All rights reserved.</li>
 			</ul>
