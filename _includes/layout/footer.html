@@ -22,24 +22,12 @@
 	<section id="footer">
 		<div class="inner">
 			<h2 class="major">Get in touch</h2>
-			<p>You can reach us using the contact form bellow or you can join us on our <a href="{{ site.discord_server }}">Discord Server</a>. But the most important thing is that we definitely want to hear from you!</p>
-			<form method="post" action="{{ site.contact }}">
-				<div class="field">
-					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
-				</div>
-				<div class="field">
-					<label for="email">Email</label>
-					<input type="email" name="email" id="email" />
-				</div>
-				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="4"></textarea>
-				</div>
-				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
-				</ul>
-			</form>
+			<p>
+				You can reach us using the contact form bellow or you can join us on our
+				<a href="{{ site.discord_server }}">Discord Server</a>. But the most
+				important thing is that we definitely want to hear from you!
+			</p>
+			{% include content/contact_form.html %}
 			<iframe
 				class="contact"
 				src="https://discord.com/widget?id=750824205557432393&theme=dark"
@@ -59,13 +47,7 @@
 				<li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
 			</ul>-->
 			<div class="copyright">
-				<p>Privateer Press®, WARMACHINE®, Cephalyx, Convergence of Cyriss®, Convergence, Cryx®, Cygnar®, Khador®, Protectorate of Menoth®, Protectorate, Retribution of Scyrah®, Retribution, warcaster®, warjack®, HORDES®, Circle Orboros®, Circle, Grymkin, Grymkin: The Wicked Harvest, Legion of Everblight®, Legion, Skorne®, Trollbloods®, Trollblood, warbeast, and all associated logos and slogans are trademarks and/or intelectual property of Privateer Press, Inc.</p>
-
-				<p>Images originating from the Privateer Press website and the Discord logo are copyrighted by their respective owners. {{ site.title }} is not produced by or endorsed by these services. Copyrighted material is used on basis of Fair Use where applicable.</p>
-
-				<p>{{ site.title }} logo made by Freepik from www.flaticon.com</p>
-
-				<p>All other content &copy; 2020 {{ site.title }}. All rights reserved.</p>
+				{% include content/copyright.html %}
 			</div>
 		</div>
 	</section>
