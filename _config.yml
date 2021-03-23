@@ -16,9 +16,9 @@
 title: Iron Codex
 logo: /assets/images/ironcodex.svg
 contact: https://formspree.io/xqkybngo
-tagline: A portable WarmaHordes models and rules database
+tagline: A list building website for WARMACHINE® and HORDES®.
 description: >- # this means to ignore newlines until "baseurl:"
-  A portable WARMACHINE® and HORDES® model database.
+  A list building website for WARMACHINE® and HORDES®.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ironcodex.net" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  moisesguimaraes
