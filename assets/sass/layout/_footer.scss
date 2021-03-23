@@ -8,7 +8,7 @@
 
 	#footer {
 		.inner {
-			@include padding(5em, 0);
+			@include padding(3em, 0);
 			@include vendor('display', 'flex');
 			@include vendor('flex-direction', 'row');
 			@include vendor('flex-wrap', 'wrap');
@@ -35,7 +35,7 @@
 			.copyright {
 				border-top: solid 2px _palette(border);
 				color: _palette(fg-light);
-				font-size: 0.9em;
+				font-size: 0.6em;
 				list-style: none;
 				margin: (_size(element-margin) * 2) 0 _size(element-margin) 0;
 				padding: _size(element-margin) 0 0 0;
@@ -101,10 +101,6 @@
 				.contact {
 					width: 100%;
 					margin: 0 0 (_size(element-margin) * 2) 0;
-				}
-
-				.copyright {
-					margin: (_size(element-margin) * 2) 0 _size(element-margin) 0;
 				}
 			}
 		}
