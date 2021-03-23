@@ -63,9 +63,9 @@ Scenario: Syzygy
   <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/02.jpg"/>
 </span>
 
-I won initiative and decided to go first to grab some board space. I initially thought the top side to be worse due to the more exposed flag and objective, but I was probably wrong on that one :D, I’ve placed my Snowdrifts centrally with one allowing my solo to camp flag while having concealment.
+I won initiative and decided to go first to grab some board space. I initially thought the top side to be worse due to the more exposed flag and objective, but I was probably wrong on that one 😃, I’ve placed my Snowdrifts centrally with one allowing my solo to camp flag while having concealment.
 
-From left side you can see Pyre troll (not surprising considering the burning earth), I deployed my Champs centrally with Valka in second line, Impaler in position to snipe most of the targets turn 2, right next to him is Madrak, Dhunian Archon and Earthborn on the flank. My whelp waited to spawn as I thought it might make a difference against his Assault boys. On the middle right you can notice the Dhunian objective marker I made out of clay :P 
+From left side you can see Pyre troll (not surprising considering the burning earth), I deployed my Champs centrally with Valka in second line, Impaler in position to snipe most of the targets turn 2, right next to him is Madrak, Dhunian Archon and Earthborn on the flank. My whelp waited to spawn as I thought it might make a difference against his Assault boys. On the middle right you can notice the Dhunian objective marker I made out of clay 😜 
 
 ### Crucible Guard deployment
 
@@ -99,7 +99,7 @@ It’s time to grab some board space! The thing about CG lists is that even if t
   <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/06.jpg"/>
 </span>
 
-Side view with more action :D
+Side view with more action 😃
 
 ### Crucible Guard round 2
 
@@ -135,7 +135,7 @@ Victory to CG!
 
 We used the opportunity of the Best of Two system (which we usually don’t manage to timewise) and I had a choice whether to start or pick side. Took the other side this time since the building turned out really good defensively for his sneaky solos.
 
-I haven’t taken the deployment photos, but setup was practically the same as previously and we did not sideboard anything. I have also forgotten to put my Snowdrift terrain pieces from the Storm of the North theme force :P
+I haven’t taken the deployment photos, but setup was practically the same as previously and we did not sideboard anything. I have also forgotten to put my Snowdrift terrain pieces from the Storm of the North theme force 😜
 
 ### Crucible Guard round 1
 
@@ -143,7 +143,7 @@ Syvestro cast his upkeeps - Transmutation on Assaults, Admonition on Vindicator 
 
 ### Trollbloods round 1
 
-I spread out my models, especially Champs, to avoid being too affected by blasts and sprays. Pyre Troll walks 5 and attempts to deviate well on Stinger - and manages to, even though I needed to roll specifically direction 1 and 4 - 6 inches! He set him on fire, but cannot deal any blast damage :c Madrak casts Even Ground and walks forward.
+I spread out my models, especially Champs, to avoid being too affected by blasts and sprays. Pyre Troll walks 5 and attempts to deviate well on Stinger - and manages to, even though I needed to roll specifically direction 1 and 4 - 6 inches! He set him on fire, but cannot deal any blast damage 😩 Madrak casts Even Ground and walks forward.
 
 <span class="image fit">
   <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/09.jpg"/>
@@ -195,6 +195,6 @@ After those games I am not fully convinced on the scenario. It is quite demandin
 
 ### Thoughts on games
 
-Admittedly, I did struggle into Crucible Guard before CID since their toolbox against Trollbloods is really broad. Post-CID the bar seems to go even higher as they got tuned up on damage, accuracy and annoyance. I will test Madrak few times more but will probably have to try out some new drop into Guard, such as Ragnor or Gunnbjorn1 (I don’t own Kolgrimma, sadly! :P )
+Admittedly, I did struggle into Crucible Guard before CID since their toolbox against Trollbloods is really broad. Post-CID the bar seems to go even higher as they got tuned up on damage, accuracy and annoyance. I will test Madrak few times more but will probably have to try out some new drop into Guard, such as Ragnor or Gunnbjorn1 (I don’t own Kolgrimma, sadly! 😜)
 
-From my side, mistakes were definitely made as Moises is really good at putting pressure from the distance - sometimes no matter what you do you will be in a hard spot. I still had great time playing these games, felt awesome to put models on the table, and I so much look forward to another brawlin time :D
+From my side, mistakes were definitely made as Moises is really good at putting pressure from the distance - sometimes no matter what you do you will be in a hard spot. I still had great time playing these games, felt awesome to put models on the table, and I so much look forward to another brawlin time 😃
