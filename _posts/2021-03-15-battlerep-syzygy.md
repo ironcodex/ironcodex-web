@@ -166,7 +166,7 @@ Dhunian Archon hanged way too much in the back so she could not protect to forwa
 Looking at the picture below, I really did expose Madrak way too much.
 
 <span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/10.png"/>
+  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/10.jpg"/>
 </span>
 
 Score: CG 1 - Trollbloods 0 (Stinger contested my flag I think)
@@ -182,7 +182,7 @@ Stinger jumped around, poking Valka with Blind and side stepping onto Madrak to 
 Suppressor went up and sprayed Madrak twice, I transferred one damage roll into Pyre who died and gave me 2 fury, unfortunately Earthborn was full, second damage needed to be scrolled. Vindicator aimed and shot Madrak to death, while Mentalist was still on stand-by to use her spray.
 
 <span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/11.png"/>
+  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/11.jpg"/>
 </span>
 
 Victory by Caster Kill to CG!
