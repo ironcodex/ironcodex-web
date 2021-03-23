@@ -4,6 +4,7 @@ title:  Madrak 1 (SotN) vs Syvestro 1 (MO)
 format: Brawlmachine
 date:   2021-03-15
 image: /images/bg.jpg
+comments: true
 ---
 
 Hello everybody, and welcome to our very first in-real-life Brawlmachine battle report. My name is Max, and last Sunday, me and Moisés had a couple of games to test the new Syzygy scenario coming up in Brawlmachine 1.1. So without further ado, let's kick-off this battle report with our lists:
