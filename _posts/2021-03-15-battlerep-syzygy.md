@@ -4,15 +4,15 @@ title:  Madrak 1 (SotN) vs Syvestro 1 (MO)
 format: Brawlmachine
 date:   2021-03-15
 image: /images/bg.jpg
+images_root: battlerep/2021-03-15/
 comments: true
 ---
 
 Hello everybody, and welcome to our very first in-real-life Brawlmachine battle report. My name is Max, and last Sunday, me and Moisés had a couple of games to test the new Syzygy scenario coming up in Brawlmachine 1.1. So without further ado, let's kick-off this battle report with our lists:
 
 ### Max - Trollbloods - Madrak Ironhide, Thornwood Chieftain - Storm of the North
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/L1.png"/>
-</span>
+
+{% include layout/image.html path="L1.png" %}
 
 This is one of my Madrak1 lists I’m trying to make work against Crucible Guard 😃. To my surprise, the mainboard list is the same posted by Philip in his LOS Brawlmachine Trollbloods List Building article, I guess great minds think alike!
 
@@ -20,9 +20,8 @@ Before Crucible CID, a relative weakness of that faction seemed to be limited hi
 Storm of the North theme ensures most of my models are immune to cold, which renders Suppressor’s Ice Cage useless.
 
 ### Moisés - Crucible Guard - Syvestro - Magnum Opus
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/L2.png"/>
-</span>
+
+{% include layout/image.html path="L2.png" %}
 
 #### Moisés
 > I haven't played Assault Troopers in a very long time and wanted to see how much they improved during CID trying this DEF skew build with an Ascendant Mentalist and upgraded Warjacks. I really like Syvestro's transmute spell as I prefer to have my opponents boosting attack rolls than damage rolls, the Mentalist's bubble can bring my Troopers' DEF up to 17 without relying on terrain and up to 19 if they can get cover. Suppressor and Vindicator are such a great duo in Brawl that I don't remember the last time I had a Toro on the table.
@@ -33,9 +32,7 @@ Storm of the North theme ensures most of my models are immune to cold, which ren
 
 Scenario: Syzygy
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/01.jpg"/>
-</span>
+{% include layout/image.html path="01.jpg" %}
 
 <ol>
   <div class="row">
@@ -60,9 +57,7 @@ Scenario: Syzygy
 
 ### Trollbloods deployment
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/02.jpg"/>
-</span>
+{% include layout/image.html path="02.jpg" %}
 
 I won initiative and decided to go first to grab some board space. I initially thought the top side to be worse due to the more exposed flag and objective, but I was probably wrong on that one 😃, I’ve placed my Snowdrifts centrally with one allowing my solo to camp flag while having concealment.
 
@@ -70,9 +65,7 @@ From left side you can see Pyre troll (not surprising considering the burning ea
 
 ### Crucible Guard deployment
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/03.jpg"/>
-</span>
+{% include layout/image.html path="03.jpg" %}
 
 #### Moises
 
@@ -82,9 +75,7 @@ From left side you can see Pyre troll (not surprising considering the burning ea
 
 Turn 1 I just ran my stuff forward paying attention not to be within Vindicator’s 19" shooting range and put the Impaler in a way that interrupted Madrak’s charge. I cast Even Ground just in an off scenario something would need to roll tough, since he couldn’t get all the way up on board anyways.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/04.jpg"/>
-</span>
+{% include layout/image.html path="04.jpg" %}
 
 ### Crucible Guard round 1
 
@@ -96,9 +87,7 @@ Ascendant Mentalist put force Aura, moved 6 and repoed 3 - talk about mobility! 
 
 It’s time to grab some board space! The thing about CG lists is that even if they are pretty melee-centric, like this one, they still have a considerable amount of shooting that will force engagement. I ran my champs forward with the front 2 ones in B2B for defensive line and outside of most of his walk and punch threats on Assault troopers. Valka positioned himself behind, ready to countercharge - but he was a tad bit too far into range where he could be engaged by Assaults. Impaler threw a nice crit shot on Vindicator, chipped in around 8 dmg (nothing crippled), and slammed him 5” backwards (due to the angles nothing got hit though). Pyre and Madrak gave Flaming Fists to 2 Champions (marked by orange beads), Mad cast Even Ground and feated while Dhunian Archon sat on the flag.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/06.jpg"/>
-</span>
+{% include layout/image.html path="06.jpg" %}
 
 Side view with more action 😃
 
@@ -107,9 +96,7 @@ Side view with more action 😃
 Moises stood up Vindicator for a focus and went for the offensive. Syvestro handled some focus around and put Impenetrable Haze on himself. First off to attack was the Dragon Breath Rocket which could aim and hit Valka, giving -2 arm and no tough to most of my champs, Earthborn and Impaler. Vindicator shot Valka and boy did the boosted blasts hurt the champs. Suppressor sprayed them a bit, killing one Champ and even triggering the explosivo blast (this rarely comes into play), which did nothing though. The Assault Troopers needed to get in and only finished 1 Champ off, needing 7s to hit and with one punch turned off by Archon. Mentalist moved up for the Psychokinetic Shield. 
 On the right flank Stinger flew in, blinded the remaining Champ and Earthborn, and repo into nasty position. Trancer tried to slam Dhunian Archon but came short even with boosted attack.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/07.jpg"/>
-</span>
+{% include layout/image.html path="07.jpg" %}
 
 Score: Trollbloods 0 - 1 Crucible Guard
 
@@ -124,9 +111,7 @@ Score: Trollbloods 1 - 2 Crucible Guard
 It’s feat turn for the Crucible Guard. Syvestro drops Explosivo, puts focus on Jacks, revives 1 Assault Trooper from free spell. Combined attacks of DBR, Suppressor’s and Mentalist’s sprays, Vindicator and Assault Troopers wipe out most of my army, with Archon dying while trying to protect a Champ (rolled exactly 3 dmg - probably was my mistake to even attempt doing it). Whelp popped up next to Earthborn but without much chance to run off contesting flag.
 With only Earthborn, Pyre, Mad and Whelp I’ve conceded the game.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/08.jpg"/>
-</span>
+{% include layout/image.html path="08.jpg" %}
 
 Score: Trollbloods 1 - CG 3
 
@@ -146,9 +131,7 @@ Syvestro cast his upkeeps - Transmutation on Assaults, Admonition on Vindicator 
 
 I spread out my models, especially Champs, to avoid being too affected by blasts and sprays. Pyre Troll walks 5 and attempts to deviate well on Stinger - and manages to, even though I needed to roll specifically direction 1 and 4 - 6 inches! He set him on fire, but cannot deal any blast damage 😩 Madrak casts Even Ground and walks forward.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/09.jpg"/>
-</span>
+{% include layout/image.html path="09.jpg" %}
 
 ### Crucible Guard round 2
 
@@ -166,9 +149,7 @@ Dhunian Archon hanged way too much in the back so she could not protect to forwa
 
 Looking at the picture below, I really did expose Madrak way too much.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/10.jpg"/>
-</span>
+{% include layout/image.html path="10.jpg" %}
 
 Score: CG 1 - Trollbloods 0 (Stinger contested my flag I think)
 
@@ -182,9 +163,7 @@ Stinger jumped around, poking Valka with Blind and side stepping onto Madrak to 
 
 Suppressor went up and sprayed Madrak twice, I transferred one damage roll into Pyre who died and gave me 2 fury, unfortunately Earthborn was full, second damage needed to be scrolled. Vindicator aimed and shot Madrak to death, while Mentalist was still on stand-by to use her spray.
 
-<span class="image fit">
-  <img src="{{ site.baseurl }}/images/battlerep/{{ page.date | date: "%Y-%m-%d" }}/11.jpg"/>
-</span>
+{% include layout/image.html path="11.jpg" %}
 
 Victory by Caster Kill to CG!
 
