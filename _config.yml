@@ -13,17 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Iron Codex
-logo: /assets/images/ironcodex.svg
-contact: https://formspree.io/xqkybngo
-tagline: A list building website for WARMACHINE® and HORDES®.
-description: >- # this means to ignore newlines until "baseurl:"
-  A list building website for WARMACHINE® and HORDES®.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ironcodex.net" # the base hostname & protocol for your site, e.g. http://example.com
+
+title: Iron Codex
+tagline: A WARMACHINE® and HORDES® rules and cards database.
+description: >-
+  A WARMACHINE® and HORDES® rules and cards database.
+logo: /assets/images/ironcodex.svg
+
 github_username:  moisesguimaraes
 twitter_username: moisesguimaraes
 instagram_username: whereismoisa
+
 factions:
   infernals: Infernals
   crucible-guard: Crucible Guard
@@ -41,7 +43,7 @@ factions:
   minions: Minions
   grymkin: Grymkin
 
-jobs:
+roles:
   warcaster: Warcasters
   warlock: Warlocks
   infernal_masters: Infernal Masters
@@ -53,28 +55,8 @@ jobs:
   engine_structure: Battle Engines & Structures
   arcana: Arcanas
 
-# Plugins
-plugins:
- - jekyll-paginate
-
-# Pagination
-paginate: 4
-paginate_path: "/search/page:num/"
-
 # Build settings
 markdown: kramdown
 
 sass:
   sass_dir: assets/sass
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
