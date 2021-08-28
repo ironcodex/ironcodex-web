@@ -6,7 +6,7 @@
 
 /* Menu */
 
-	#page-wrapper {
+	#app {
 		@include vendor('transition', 'filter 0.25s ease');
 	}
 
@@ -110,7 +110,7 @@
 	}
 
 	body.is-menu-visible {
-		#page-wrapper {
+		#app {
 			@include vendor('filter', 'blur(1.5px)');
 		}
 

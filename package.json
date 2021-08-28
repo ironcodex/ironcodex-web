@@ -1,0 +1,52 @@
+{
+  "name": "ironcodex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "jekyll:watch": "bundle exec jekyll build --watch --incremental",
+    "jekyll:build": "bundle exec jekyll build",
+    "serve": "browser-sync start --config browser-sync.js",
+    "start": "npm run jekyll:watch & npm run serve",
+    "watch": "cross-env NODE_ENV=development webpack --watch"
+  },
+  "keywords": [
+    "jekyll",
+    "vue",
+    "ssg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironcodex/ironcodex-web.git"
+  },
+  "author": "Moisés Guimarães",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ironcodex/ironcodex-web/issues"
+  },
+  "homepage": "https://github.com/ironcodex/ironcodex-web#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.2.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-vue": "^7.17.0",
+    "html-webpack-plugin": "^5.3.2",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "vue-loader": "^15.9.8",
+    "vue-style-loader": "^4.1.3",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}

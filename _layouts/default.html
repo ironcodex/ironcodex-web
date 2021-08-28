@@ -1,27 +1,5 @@
-{% comment %}
-
-	Solid State by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
-
-	Name:
-
-		Default layout
-
-	Description:
-
-		Basic HTML foundation for all pages.
-
-	Example:
-
-		---
-		layout: default
-		---
-
-{% endcomment %}
-
-<!DOCTYPE HTML>
-<html>
+<!doctype html>
+<html lang="en">
 	<head>
 		<title>{{ site.title }}</title>
 		<meta charset="utf-8" />
@@ -39,7 +17,7 @@
 	<body>
 
 		<!-- Page Wrapper -->
-			<div id="page-wrapper">
+			<div id="app">
 
 				{% include layout/header.html class=page.header_class %}
 
@@ -52,6 +30,7 @@
 			</div>
 
 		<!-- Scripts -->
+			{% include scripts.html %}
 			<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 			<script src="{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
