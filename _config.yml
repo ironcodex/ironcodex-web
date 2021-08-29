@@ -27,6 +27,10 @@ github_username:  moisesguimaraes
 twitter_username: moisesguimaraes
 instagram_username: whereismoisa
 
+collections:
+  models:
+    output: true
+
 factions:
   infernals: Infernals
   crucible-guard: Crucible Guard

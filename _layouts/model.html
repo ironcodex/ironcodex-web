@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<!-- Wrapper -->
+  <section id="wrapper">
+    <header>
+      <div class="inner">
+        <model name="{{ page.name }}"></model>
+        <h2>{{ page.name }}</h2>
+        <p>{{ page.role }}</p>
+      </div>
+    </header>
+
+    <!-- Content -->
+      <div class="wrapper">
+        <div class="inner">
+
+          {% for scan in page.scans %}
+          <img src="https://scans.ironcodex.net/{{ scan }}"/>
+          {% endfor %}
+        </div>
+      </div>
+
+  </section>
